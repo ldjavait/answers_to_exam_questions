@@ -2,4 +2,4 @@
 
 #### Содержание:
 
-[**Шпаргалка.** Вопросы и ответы на экзамен курса Job4j.](https://github.com/johnivo/job4j/tree/master/interview_questions)
+[**Шпаргалка.** Вопросы и ответы на экзамен курса Job4j.](https://github.com/ldjavait/answers_to_exam_questions/tree/main/exam_questions)
