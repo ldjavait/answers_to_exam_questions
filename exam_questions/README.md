@@ -2,5 +2,5 @@
 
 + [Java Core](Core.md#core)
 + [OOP](OOP.md#oop)
-+ [CollectionsLite](CollectionsLite.md#CollectionsLite)
++ [Collections Lite](CollectionsLite.md#CollectionsLite)
 
