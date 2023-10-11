@@ -3,4 +3,5 @@
 + [Java Core](Core.md#core)
 + [OOP](OOP.md#oop)
 + [Collections Lite](CollectionsLite.md#CollectionsLite)
++ [Lambda. Stream APi](Lambda.md#Lambda)
 

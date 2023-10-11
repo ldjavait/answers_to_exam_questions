@@ -1,4 +1,4 @@
-## Lambda. Steam API
+## Lambda
 
 [1. Что такое lambda-выражение?](#1-Что-такое-lambda-выражение)
 
@@ -86,147 +86,147 @@
 
 ## 3. Перечислите функциональные интерфейсы из пакета java.util.function.
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 4. Что такое функции высшего порядка?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 5. Какие функциональные интерфейсы из пакета java.util.function поддерживают функции высшего порядка?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 6. Что такое ссылки на методы?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 7. Что такое ссылки на конструкторы?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 8. Расскажите о зоне видимости переменных в lambda - выражениях?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 9. Как быть в ситуации, если внутри lambda - выражения операторы могут выкинуть исключение?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 10. Что такое Stream API?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 11. Расскажите, какие шаблоны проектирования используются внутри Stream API? (Builder, Strategy, Decorator, Factory Method, Pipeline).
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 12. Объясните, где они используются в Stream API.
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 13. Что такое конвейерные и терминальные операции?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 14. Перечислите конвейерные (промежуточные) методы Stream API.
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 15. Перечислите терминальные методы Stream API.
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 16. Что такое отложенный выполнение lamdba?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 17. Что делает метод filter()?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 18. Что делает метод map()?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 19. Что делает метод flatMap()?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 20. Что делает метод collect?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 21. Что делает метод findFirst?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 22. Что делает метод reduce?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 23. Что делают методы min и max?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 24. Что делают методы count, sum, average?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 25. Что делают методы forEach и peek?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 26. Что делают методы skip и limit?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 27. Что делают методы allMatch(), noneMatch() и anyMatch()?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 28. Что делают методы mapToInt(), flatMapToInt(), mapToObj()?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 29. Что такое числовой поток?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 30. Чем отличается Stream<Integer> от IntStream<int>?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 31. Что делает метод boxed?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 32. Возможно ли прервать выполнение потока по аналогии с break?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 33. Возможно ли пропустить элемент потока по аналогии с continue?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 34. Что такое Optional?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 35. Перечислите методы Optional.
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 36. Расскажите про фабричные методы List.of, Set.of, Map.of?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 37. Для чего используется var?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 ## 38. В каких случаях можно использовать var?
 
-[К оглавлению](#Lambda-Stream-API)
+[К оглавлению](#Lambda)
 
 
 
