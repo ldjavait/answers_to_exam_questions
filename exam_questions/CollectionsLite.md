@@ -141,7 +141,7 @@ update, delete). На уровне Collection не существует спос
 - ArrayList, LinkedList, Vector - классы для хранения элементов в виде массива. Они реализуют интерфейс List.
 - HashSet, LinkedHashSet, TreeSet - классы для хранения уникальных элементов. Они реализуют интерфейсы Set и SortedSet.
 - HashMap, LinkedHashMap, TreeMap, ConcurrentHashMap - классы для хранения пар ключ-значение. Они реализуют интерфейс
-  Map и его наследники.
+  Map и его наследников.
 
 [К оглавлению](#CollectionsLite)
 
